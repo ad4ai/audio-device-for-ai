@@ -1,12 +1,15 @@
 # audio-device-for-ai
+
 Audio Device for Connecting AI with Human Voice
 https://adfai.online/
+
 AD4AI is a hw&sw solution that connects people with personalized artificial intelligence systems through voice, enabling natural interaction in real-world environments.
 Designed to facilitate audio interaction with AI without the need for a mobile phone.
 Is a project focused on offering a hardware platform suitable for the development of AI projects based on voice assistants, independent of any specific AI model.
 
 Standalone hardware device for conversational interaction with AI. Available in three versions: Desktop, wall and mini.
 Compatible development between the three models.
+
 ■ Compatible with multiple LLMs
 ■ Use your own STT / TTS
 ■ Real-time audio streaming
