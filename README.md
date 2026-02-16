@@ -33,3 +33,6 @@ The backend is free to be programmed by the developer as desired. Here are some 
 
 
 
+<p align="center"><img src=".github/communications.jpg" width="500"></p>
+
+
