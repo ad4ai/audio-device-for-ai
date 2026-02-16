@@ -31,8 +31,6 @@ The hardware is supplied with the appropriate firmware for full operation.
 The backend is free to be programmed by the developer as desired. Here are some implementations that work correctly with the hardware and can serve as examples for future developments.
 
 
-
-
-<p align="center"><img src=".github/communications.jpg" width="500"></p>
+<p align="center"><img src="./communications.jpg" width="500"></p>
 
 
